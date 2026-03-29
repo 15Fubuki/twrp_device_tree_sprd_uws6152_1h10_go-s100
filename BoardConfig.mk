@@ -91,9 +91,6 @@ BOARD_VNDK_VERSION := current
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 
-# Sreen
-BOARD_HAS_FLIPPED_SCREEN:= true
-
 # Security patch level
 VENDOR_SECURITY_PATCH := 2021-08-01
 
