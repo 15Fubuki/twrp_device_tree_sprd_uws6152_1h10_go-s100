@@ -4,7 +4,7 @@
 
 The S100 (codenamed _"uws6152_1h10_go"_) is a smartwatch produced by XinTaiQi.
 
-It was released in 2025.
+It was released in 2026.
 
 ## Work
 | function    | status |
